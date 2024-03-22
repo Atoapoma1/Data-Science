@@ -16,5 +16,6 @@ Geospatial Analysis: Plotly Express is utilized to create interactive maps visua
 
 **Conclusion**
 Insights: The analysis provides insights into the real estate market in Mexico, including the distribution of property types, price trends across states, and relationships between home size and price.
-**
-Recommendations: **Based on the findings, recommendations may be provided for buyers, sellers, and real estate investors interested in the Mexican market.
+
+**Recommendations: **
+Based on the findings, recommendations may be provided for buyers, sellers, and real estate investors interested in the Mexican market.
